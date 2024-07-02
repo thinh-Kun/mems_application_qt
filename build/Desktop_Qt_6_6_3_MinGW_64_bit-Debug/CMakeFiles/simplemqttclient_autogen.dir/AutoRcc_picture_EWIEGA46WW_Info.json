@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/simplemqttclient_autogen",
+	"CMAKE_BINARY_DIR" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient",
+	"CMAKE_SOURCE_DIR" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient",
+	"INCLUDE_DIR" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/simplemqttclient_autogen/include",
+	"INPUTS" : 
+	[
+		"F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/Chip.jpg",
+		"F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/1024px-Logo_HUET.png",
+		"F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/Logo-VNU-1995.png"
+	],
+	"LOCK_FILE" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/simplemqttclient_autogen.dir/AutoRcc_picture_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "picture" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_picture.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/simplemqttclient_autogen.dir/AutoRcc_picture_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/picture.qrc",
+	"VERBOSITY" : 0
+}

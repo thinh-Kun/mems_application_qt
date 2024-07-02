@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>1024px-Logo_HUET.png</file>
+        <file>Chip.jpg</file>
+        <file>Logo-VNU-1995.png</file>
+    </qresource>
+</RCC>
+
+

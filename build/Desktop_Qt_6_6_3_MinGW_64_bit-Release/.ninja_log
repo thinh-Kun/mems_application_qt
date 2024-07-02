@@ -1,0 +1,15 @@
+# ninja log v6
+14	61	7414274833436223	CMakeFiles/clean.additional	9377104310d8a2a4
+62	75	7414274833915135	clean	577b940aee94fbd7
+31	5258	7414274886144083	simplemqttclient_autogen/timestamp	1c91db4f73bee98e
+31	5258	7414274886144083	simplemqttclient_autogen/mocs_compilation.cpp	1c91db4f73bee98e
+31	5258	7414274886144083	F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Release/simplemqttclient_autogen/timestamp	1c91db4f73bee98e
+31	5258	7414274886144083	F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Release/simplemqttclient_autogen/mocs_compilation.cpp	1c91db4f73bee98e
+5260	5377	7414274888588275	simplemqttclient_autogen/EWIEGA46WW/qrc_picture.cpp	8848a08dedfed856
+5260	5377	7414274888588275	F:/Downloads/test_mqtt/qtmqtt/examples/mqtt/simpleclient/build/Desktop_Qt_6_6_3_MinGW_64_bit-Release/simplemqttclient_autogen/EWIEGA46WW/qrc_picture.cpp	8848a08dedfed856
+5403	6352	7414274888954738	CMakeFiles/simplemqttclient.dir/simplemqttclient_autogen/EWIEGA46WW/qrc_picture.cpp.obj	f6b5a98ac2f54b86
+5384	26629	7414274888764729	CMakeFiles/simplemqttclient.dir/main.cpp.obj	93cb6d5c168f6b7c
+5390	30330	7414274888824727	CMakeFiles/simplemqttclient.dir/mainwindow.cpp.obj	5bb8978e7d1202d
+5377	39906	7414274888694716	CMakeFiles/simplemqttclient.dir/simplemqttclient_autogen/mocs_compilation.cpp.obj	ec330f6ed6121996
+5398	67516	7414274888904712	CMakeFiles/simplemqttclient.dir/qcustomplot.cpp.obj	82a0d0c4b0854253
+67516	68379	7414275510086282	simplemqttclient.exe	501368257ac2c268
